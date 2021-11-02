@@ -4,6 +4,8 @@
 *.RProj
 .Rhistory
 
+## Submissions
+submissions/*
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
